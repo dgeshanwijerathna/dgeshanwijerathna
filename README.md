@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hello there, Im eshan wijerathna!!
+hello there, I'm Eshan
