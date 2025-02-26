@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 hello there, I'm Eshan
+
+## My stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgeshanwijerathnae&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight)
+
