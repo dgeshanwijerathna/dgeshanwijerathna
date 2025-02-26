@@ -8,8 +8,10 @@
 - 📫 How to reach me: x@eshanw.me
 
 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgeshanwijerathna&show_icons=true&locale=en)
+<!-- 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgeshanwijerathna&show_icons=true&locale=en)
+ -->
 
 
 <p>
