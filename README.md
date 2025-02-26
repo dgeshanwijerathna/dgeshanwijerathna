@@ -7,8 +7,8 @@ native mobile apps. Passionate about solving complex problems, I thrive in dynam
 eager to contribute to an innovative team.
 
 
-- 🔭 I’m currently working on Linkapal, which is a mobile appfor university students to find their study partners
-- 🌱 I’m currently learning Kotlin and PHP
+- 🔭 I’m currently working on Linkapal, which is a mobile app for university students to find their study partners.
+- 🌱 I’m currently learning Kotlin and PHP.
 - 👯 I’m looking to collaborate on developing a SaaS.
 - 📫 How to reach me: x@eshanw.me
 
