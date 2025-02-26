@@ -23,3 +23,9 @@ hello there, I'm Eshan
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=dgeshanwijerathna&theme=tokyonight)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dgeshanwijerathna&theme=tokyonight)
+
+
+
