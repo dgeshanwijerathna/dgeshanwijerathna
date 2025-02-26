@@ -1,31 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Eshan Wijerathna 👋
 
-<!--
-**dgeshanwijerathna/dgeshanwijerathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Linkapal, which is a mobile appfor university students to find their study partners
+- 🌱 I’m currently learning Kotlin and PHP
+- 👯 I’m looking to collaborate on developing a SaaS.
+- 📫 How to reach me: x@eshanw.me
 
-hello there, I'm Eshan
 
-## My stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgeshanwijerathnae&show_icons=true&theme=tokyonight)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dgeshanwijerathna&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgeshanwijerathna&show_icons=true&locale=en)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dgeshanwijerathna&theme=tokyonight)
+
+
 
 
 
