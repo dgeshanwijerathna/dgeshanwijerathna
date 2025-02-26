@@ -12,17 +12,10 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgeshanwijerathna&show_icons=true&locale=en)
 
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight" />
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=dgeshanwijerathna&show_icons=true&locale=en" />
-    </td>
-  </tr>
-</table>
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgeshanwijerathna&layout=compact&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dgeshanwijerathna&show_icons=true&locale=en" />
+</p>
 
 
 
