@@ -10,7 +10,7 @@ eager to contribute to an innovative team.
 - 🔭 I’m currently working on Linkapal, which is a mobile app for university students to find their study partners.
 - 🌱 I’m currently learning Kotlin and PHP.
 - 👯 I’m looking to collaborate on developing a SaaS.
-- 📫 How to reach me: x@eshanw.me
+- 📫 How to reach me: dg.eshanp@gmail.com
 
 
 <!-- 
